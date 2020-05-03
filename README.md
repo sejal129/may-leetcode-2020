@@ -1,7 +1,6 @@
 # may-leetcode-2020
-This repository contains my solution of May LeetCode challenge under Wiki.
 
-Welcome to the may-leetcode-2020 wiki!
+Welcome to the May Leetcode Challenge Solutions.
 
 | Problem Link | Time Taken | Algorithm Used | 
 |--------------| ---------- | -------------- |
