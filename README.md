@@ -18,3 +18,4 @@ Programming Language: Python
 |9| https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/ | 15 minutes| None|
 |10|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/ | 30 minutes | None|
 |11|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/ |5 minutes| None|
+|12|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/ | 20 minutes| None|
