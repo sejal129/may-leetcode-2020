@@ -23,3 +23,4 @@ Programming Language: Python
 |14|Maximum Sum Circular Subarray|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/| 30 minutes| None|
 |15|Odd Even Linked List|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/| 1 hour|None|
 |16|Find All Anagrams in a String|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/ |1 hour |None|
+|17|Permuation in String|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/| 10 minutes| None
