@@ -27,3 +27,4 @@ Programming Language: Python
 |18|Online Stock Span|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/ |30 minutes|None|
 |19|Kth Smallest Element in a BST|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/ |30 minutes|None|
 |20|Count Square Submatrices with All Ones|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/ |30 minutes|None|
+|21|Count Square Submatrices with All Ones|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/ |30 minutes |None|
