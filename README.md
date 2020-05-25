@@ -30,3 +30,4 @@ Programming Language: Python
 |21|Sort Characters By Frequency|https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/ | 30 minutes |None|
 |22|Interval List Intersections|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/ |45 minutes |None|
 |23|Construct Binary Search Tree from Preorder Traversal|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/|30 minutes|None|
+|24|Uncrossed Lines|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | 1 hour| None|
