@@ -31,3 +31,4 @@ Programming Language: Python
 |22|Interval List Intersections|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/ |45 minutes |None|
 |23|Construct Binary Search Tree from Preorder Traversal|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/|30 minutes|None|
 |24|Uncrossed Lines|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | 1 hour| None|
+|25|Contiguous Array| https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ | 1hour| None|
