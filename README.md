@@ -33,3 +33,4 @@ Programming Language: Python
 |24|Uncrossed Lines|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | 1 hour| None|
 |25|Contiguous Array| https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ |1 hour| None|
 |26|Possible Bipartition|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/| 2 hours|None|
+|27| Counting Bits|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/ |5 minutes| None|
