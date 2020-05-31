@@ -36,3 +36,4 @@ Programming Language: Python
 |27| Counting Bits|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/ |5 minutes| None|
 |28| Course Schedule|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/| 1 hour| None|
 |29|K Closest Points to Origin|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/| 45 minutes| None|
+|30|Edit Distance|https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/ |45 minutes| None|
