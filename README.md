@@ -4,7 +4,7 @@ Welcome to the May Leetcode Challenge Solutions.
 
 Programming Language: Python
 
-|Day|Probblem | Problem Link | Time Taken | Algorithm Used | Data Structure Encountered|
+|Day|Problem | Problem Link | Time Taken | Algorithm Used | Data Structures Encountered|
 |--|------|--------| ---------- | -------------- |----|
 |0| First Bad Version |https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/| 10 minutes | Binary Search|Array|
 |1| Jewels and Stones |https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/| 5 minutes | None|None|
