@@ -4,6 +4,8 @@ Welcome to the May Leetcode Challenge Solutions.
 
 Programming Language: Python
 
+[My LeetCode Profile](https://leetcode.com/sejalc230/).
+
 |Day|Problem | Problem Link | Time Taken | Algorithm Used | Data Structures Encountered|
 |--|------|--------| ---------- | -------------- |----|
 |0| First Bad Version |https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/| 10 minutes | Binary Search|Array|
